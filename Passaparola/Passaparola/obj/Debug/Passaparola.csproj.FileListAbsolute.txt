@@ -1,0 +1,17 @@
+C:\Users\Şafak Şahin\Desktop\Passaparola\Passaparola\bin\Debug\Passaparola.exe.config
+C:\Users\Şafak Şahin\Desktop\Passaparola\Passaparola\bin\Debug\Passaparola.exe
+C:\Users\Şafak Şahin\Desktop\Passaparola\Passaparola\bin\Debug\Passaparola.pdb
+C:\Users\Şafak Şahin\Desktop\Passaparola\Passaparola\obj\Debug\Passaparola.csproj.AssemblyReference.cache
+C:\Users\Şafak Şahin\Desktop\Passaparola\Passaparola\obj\Debug\Passaparola.Form1.resources
+C:\Users\Şafak Şahin\Desktop\Passaparola\Passaparola\obj\Debug\Passaparola.Properties.Resources.resources
+C:\Users\Şafak Şahin\Desktop\Passaparola\Passaparola\obj\Debug\Passaparola.csproj.GenerateResource.cache
+C:\Users\Şafak Şahin\Desktop\Passaparola\Passaparola\obj\Debug\Passaparola.csproj.CoreCompileInputs.cache
+C:\Users\Şafak Şahin\Desktop\Passaparola\Passaparola\obj\Debug\Passaparola.exe
+C:\Users\Şafak Şahin\Desktop\Passaparola\Passaparola\obj\Debug\Passaparola.pdb
+C:\Users\Şafak Şahin\Desktop\C# proje\Passaparola\Passaparola\obj\Debug\Passaparola.csproj.AssemblyReference.cache
+C:\Users\Şafak Şahin\Desktop\C# proje\Passaparola\Passaparola\obj\Debug\Passaparola.Form1.resources
+C:\Users\Şafak Şahin\Desktop\C# proje\Passaparola\Passaparola\obj\Debug\Passaparola.Properties.Resources.resources
+C:\Users\Şafak Şahin\Desktop\C# proje\Passaparola\Passaparola\obj\Debug\Passaparola.csproj.GenerateResource.cache
+C:\Users\Şafak Şahin\Desktop\C# proje\Passaparola\Passaparola\obj\Debug\Passaparola.csproj.CoreCompileInputs.cache
+C:\Users\Şafak Şahin\Desktop\C# proje\Passaparola\Passaparola\obj\Debug\Passaparola.exe
+C:\Users\Şafak Şahin\Desktop\C# proje\Passaparola\Passaparola\obj\Debug\Passaparola.pdb
